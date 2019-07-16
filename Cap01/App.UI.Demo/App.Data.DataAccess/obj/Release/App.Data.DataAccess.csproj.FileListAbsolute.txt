@@ -1,0 +1,5 @@
+C:\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\bin\Release\App.Data.DataAccess.dll
+C:\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\bin\Release\App.Data.DataAccess.pdb
+C:\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\obj\Release\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\obj\Release\App.Data.DataAccess.dll
+C:\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\obj\Release\App.Data.DataAccess.pdb
